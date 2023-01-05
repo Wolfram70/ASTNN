@@ -3,7 +3,7 @@
   "features": {
     "ghcr.io/devcontainers/features/nvidia-cuda:1": { 
       "installCudnn": true,
-      "cudaVersion" : "11.6"
+      "installNvtx" : true
     }
   }
 }
